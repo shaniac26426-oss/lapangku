@@ -1,6 +1,6 @@
-# RentSport - Sistem Pemesanan Lapangan Olahraga
+# Lapangku - Sistem Pemesanan Lapangan Olahraga (Tugas Komputasi Awab).
 
-**RentSport** adalah aplikasi berbasis web yang memungkinkan pengguna untuk melakukan **pemesanan lapangan olahraga** (seperti futsal, badminton, dan tenis) dengan sistem yang terintegrasi. Aplikasi ini memungkinkan pengguna untuk **melakukan reservasi lapangan**, melakukan **pembayaran online**, serta memberi **rating dan review** lapangan yang mereka sewa.
+**Lapangku** adalah aplikasi berbasis web yang memungkinkan pengguna untuk melakukan **pemesanan lapangan olahraga** .
 
 ## Fitur Utama
 
