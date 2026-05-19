@@ -1,4 +1,4 @@
-# Lapangku - Sistem Pemesanan Lapangan Olahraga (Tugas Komputasi Awab).
+# Lapangku - Sistem Pemesanan Lapangan Olahraga (Tugas Komputasi Awan).
 
 **Lapangku** adalah aplikasi berbasis web yang memungkinkan pengguna untuk melakukan **pemesanan lapangan olahraga** .
 
